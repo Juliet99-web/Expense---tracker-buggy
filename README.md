@@ -1,1 +1,1 @@
-# Expense---tracker-buggy
+# expense-tracker-buggy
